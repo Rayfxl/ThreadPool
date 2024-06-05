@@ -1,2 +1,2 @@
 # hello-word
-Laerning git
+Learning git with ssh
